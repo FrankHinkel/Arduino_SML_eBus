@@ -36,12 +36,12 @@
 								<option id="it.baeyens.arduino.compiler.c.sketch.option.incpath.2061096817" name="Include Paths (-I)" superClass="it.baeyens.arduino.compiler.c.sketch.option.incpath" valueType="includePath">
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/SML_eBus/arduino/core}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/SML_eBus/arduino/variant}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/SML_eBus/Libraries/eBus}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/SML_eBus/Libraries/SML}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/SML_eBus/Libraries/Ethernet}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/SML_eBus/Libraries/Ethernet/utility}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/SML_eBus/Libraries/SPI}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/SML_eBus/Includes}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/SML_eBus/Includes/eBus}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/SML_eBus/Includes/Error}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/SML_eBus/Includes/SML}&quot;"/>
 								</option>
 								<inputType id="it.baeyens.arduino.compiler.c.sketch.input.1721132953" name="C Source Files" superClass="it.baeyens.arduino.compiler.c.sketch.input"/>
 							</tool>
@@ -72,5 +72,9 @@
 		</configuration>
 	</storageModule>
 	<storageModule moduleId="org.eclipse.cdt.make.core.buildtargets"/>
-	<storageModule moduleId="org.eclipse.cdt.internal.ui.text.commentOwnerProjectMappings"/>
+	<storageModule moduleId="org.eclipse.cdt.internal.ui.text.commentOwnerProjectMappings">
+		<doc-comment-owner id="org.eclipse.cdt.internal.ui.text.doctools.NullDocCommentOwner">
+			<path value=""/>
+		</doc-comment-owner>
+	</storageModule>
 </cproject>
