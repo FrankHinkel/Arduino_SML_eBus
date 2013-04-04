@@ -18,6 +18,4 @@ void error(String Msg);
 void info(String Msg);
 void info(String Msg, int level);
 
-// xx
-
 #endif /* ERROR_H_ */
