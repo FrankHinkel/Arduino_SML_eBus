@@ -23,12 +23,12 @@
 								<option id="it.baeyens.arduino.compiler.cpp.sketch.option.incpath.360256724" name="Include Paths (-I)" superClass="it.baeyens.arduino.compiler.cpp.sketch.option.incpath" valueType="includePath">
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/SML_eBus/arduino/core}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/SML_eBus/arduino/variant}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/SML_eBus/Libraries/eBus}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/SML_eBus/Libraries/SML}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/SML_eBus/Libraries/Ethernet}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/SML_eBus/Libraries/Ethernet/utility}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/SML_eBus/Libraries/SPI}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/SML_eBus/Libraries/Includes}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/SML_eBus/Includes/eBus}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/SML_eBus/Includes/Error}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/SML_eBus/Includes/SML}&quot;"/>
 								</option>
 								<inputType id="it.baeyens.arduino.compiler.cpp.sketch.input.1090085237" name="CPP source files" superClass="it.baeyens.arduino.compiler.cpp.sketch.input"/>
 							</tool>
@@ -41,7 +41,7 @@
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/SML_eBus/Libraries/Ethernet}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/SML_eBus/Libraries/Ethernet/utility}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/SML_eBus/Libraries/SPI}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/SML_eBus/Libraries/Includes}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/SML_eBus/Includes}&quot;"/>
 								</option>
 								<inputType id="it.baeyens.arduino.compiler.c.sketch.input.1721132953" name="C Source Files" superClass="it.baeyens.arduino.compiler.c.sketch.input"/>
 							</tool>
